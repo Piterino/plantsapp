@@ -4,7 +4,7 @@ OVERVIEW
 
 ### Contents
 
-[TODO](#https://github.com/Piterino/plantsapp/tree/main#todo)
+[TODO](#-todo)
 
 ##technology
 
