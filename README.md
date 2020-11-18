@@ -15,7 +15,7 @@
 This is a scheduling application targetting plant owners. It will help remind the user of their plants' basic needs, such as watering regularly and expand to allow for more detailed approach for each plant.
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/plantsintro.png?raw=true" alt="intro"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/plantsintro.png?raw=true" alt="intro"/>
 </p>
 
 ## Features
@@ -23,13 +23,13 @@ This is a scheduling application targetting plant owners. It will help remind th
 ### Catalogue
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/plantsblandcatalogue.png?raw=true" alt="bland-catalogue"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/plantsblandcatalogue.png?raw=true" alt="bland-catalogue"/>
 </p>
 
 Browse owned plants, sort them by type, most imminent need, what room they're in or simply see what needs done today.
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/plantcatalogue.png?raw=true" alt="catalogue"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/plantcatalogue.png?raw=true" alt="catalogue"/>
 </p>
 
 ### Suggestions and Recommendations
@@ -39,7 +39,7 @@ Each plant has different needs. Be it how much and how often it needs to be wate
 By incorporating common sense and basic botanical knowledge into the application, the user will be prompted with what's best in their given situation.
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/plantslight.png?raw=tru" alt="light"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/plantslight.png?raw=tru" alt="light"/>
 </p>
 
 ### Customizability
@@ -47,7 +47,7 @@ By incorporating common sense and basic botanical knowledge into the application
 By personalizing each plant, we make them less forgettable. This is of course optional.
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/plantsadd.png?raw=true" alt="add"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/plantsadd.png?raw=true" alt="add"/>
 </p>
 
 ### Camera
@@ -55,7 +55,7 @@ By personalizing each plant, we make them less forgettable. This is of course op
 For large sets of plants it becomes difficult to memorise which one is which. By providing a simple camera-read, hand drawn code, a la QR, we can scan away and see the plant's profile immediately.
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/plantsqr.png?raw=true" alt="code"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/plantsqr.png?raw=true" alt="code"/>
 </p>
 
 ### Rent plants
@@ -107,9 +107,9 @@ This is an exercise as much as it is a project. Currently this is an n-th iterat
 ## Plannig iterations
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/concept%20UML.png?raw=true" alt="uml"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/concept%20UML.png?raw=true" alt="uml"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Piterino/plantsapp/blob/main/uml.png?raw=true" alt="uml"/>
+  <img src="https://github.com/Piterino/plantsapp/blob/main/media/uml.png?raw=true" alt="uml"/>
 </p>
